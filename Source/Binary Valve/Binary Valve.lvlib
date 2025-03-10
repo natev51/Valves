@@ -5,7 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Messages" Type="Folder">
-		<Item Name="Update State Msg.lvclass" Type="LVClass" URL="../../Valve Messages/Update State Msg/Update State Msg.lvclass"/>
+		<Item Name="Update State Msg.lvclass" Type="LVClass" URL="../Binary Valve Messages/Update State Msg/Update State Msg.lvclass"/>
 	</Item>
-	<Item Name="Valve.lvclass" Type="LVClass" URL="../Valve.lvclass"/>
+	<Item Name="Binary Valve.lvclass" Type="LVClass" URL="../Binary Valve/Binary Valve.lvclass"/>
 </Library>
