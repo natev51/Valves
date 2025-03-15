@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-03-10 11:03:59" Modified_Date="2025-03-13 14:45:10" Creator="Erik" Comments="" ID="db4b889911982df7304affeb8cfa709c">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-03-10 11:03:59" Modified_Date="2025-03-15 12:45:01" Creator="Erik" Comments="" ID="0eee50afc21f74412c5e6009e99b403e">
   <Library_General_Settings>
     <Package_File_Name>NathanCo_lib_Valve</Package_File_Name>
-    <Library_Version>1.0.0.4</Library_Version>
+    <Library_Version>1.0.0.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\Source</Library_Source_Folder>
     <Library_Output_Folder>..\Package</Library_Output_Folder>
@@ -228,7 +228,7 @@
         <Path>..\Source\Binary Valve</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E1BCA884FECC3C56CC97EAC57934A09B</GUID>
+      <GUID>6E4FDF84B10620D19614AF8CCA0E46F9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -263,7 +263,7 @@
         <Path>..\Source\Binary Valve\Binary Valve\Configure.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4FDDD609D48D38A69794FFCE83BA715F</GUID>
+      <GUID>7F9A2F90D679E00234845353E7D46DDE</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
